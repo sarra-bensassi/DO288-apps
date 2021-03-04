@@ -14,8 +14,7 @@ pipeline {
         DEV_PROJECT = "sarra-bs-books-dev"
         STAGE_PROJECT = "sarra-bs-books-stage"
         APP_GIT_URL = "https://github.com/sarra-bensassi/DO288-apps"
-         NEXUS_SERVER = "http://nexus-common.apps.cluster.domain.example.com/repository/nodejs"
-
+         NEXUS_SERVER = "nexus-common.apps.eu45.prod.nextcle.com"
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
         APP_NAME = "books"
     }
